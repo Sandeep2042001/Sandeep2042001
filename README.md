@@ -60,4 +60,5 @@
 ### 🐍 Contribution Snake
 
 ```markdown
-![snake gif](https://github.com/Sandeep2042001/Sandeep2042001/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Sandeep2042001/Sandeep2042001/output/github-contribution-grid-snake.svg)
+
