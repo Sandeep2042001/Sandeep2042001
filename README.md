@@ -60,7 +60,7 @@
 ### 🐾 Panther Animation (Just for Style 😎)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="300" alt="panther animation"/>
+  <img src="https://media.tenor.com/ApDdcuk3P-QAAAAd/panther-wakanda.gif" width="300" alt="panther animation"/>
 </p>
 
 ---
@@ -68,16 +68,18 @@
 ### 🚀 Tech Power Animation
 
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="60" title="Laravel"/>
 </p>
 
 ---
 
+### 💬 End Message
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=F76D57&center=true&vCenter=true&multiline=true&width=480&height=60&lines=Thanks+for+visiting+my+profile!;Connect+with+me+anytime.👋" alt="end-message" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=F76D57&center=true&vCenter=true&multiline=true&width=480&height=60&lines=Thanks+for+visiting+my+profile!;Connect+with+me+anytime.+%F0%9F%91%8B" alt="end message" />
 </p>
