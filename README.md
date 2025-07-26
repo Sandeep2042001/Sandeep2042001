@@ -60,7 +60,7 @@
 ### 🐾 Panther Animation (Just for Style 😎)
 
 <p align="center">
-  <img src="https://media.tenor.com/ApDdcuk3P-QAAAAd/panther-wakanda.gif" width="300" alt="panther animation"/>
+  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="300" alt="panther animation"/>
 </p>
 
 ---
