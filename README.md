@@ -18,7 +18,7 @@
 
 ### 🔧 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -57,9 +57,27 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐾 Panther Animation (Just for Style 😎)
 
-```markdown
-![snake gif](https://raw.githubusercontent.com/Sandeep2042001/Sandeep2042001/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="300" alt="panther animation"/>
+</p>
 
+---
 
+### 🚀 Tech Power Animation
+
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="60" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=F76D57&center=true&vCenter=true&multiline=true&width=480&height=60&lines=Thanks+for+visiting+my+profile!;Connect+with+me+anytime.👋" alt="end-message" />
+</p>
