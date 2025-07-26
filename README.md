@@ -57,7 +57,7 @@
 
 ---
 
-### 🐾 Panther Animation (Just for Style 😎)
+### 🐾 Just for Style 😎
 
 <p align="center">
   <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="300" alt="panther animation"/>
@@ -65,7 +65,7 @@
 
 ---
 
-### 🚀 Tech Power Animation
+### 🚀 Tech
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" title="React"/>
